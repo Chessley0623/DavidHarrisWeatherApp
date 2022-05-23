@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DavidHarrisWeatherApp</string>
+    <string name="display_weather">Display Weather</string>
+    <string name="city_name">City Name</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_temperature_type">Change Temperature Type</string>
+    <string name="temperature">°F</string>
+    <string name="miami">Miami</string>
+    <string name="back_button">back button</string>
+    <string name="input_name">City Name</string>
+    <string name="lookup">Lookup</string>
+    <string name="weather_app">Weather App</string>
+    <string name="welcome">Welcome</string>
+</resources>
